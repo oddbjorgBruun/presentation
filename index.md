@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 github:
         user: oddbjorgBruun
-        repo: testPres
+        repo: presentation
 ---
 
 --- .class #id 
@@ -61,6 +61,6 @@ $(function() {
 ## Quick example with ggplot2
 
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png)
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png)
 
 ---
